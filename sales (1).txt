@@ -1,0 +1,6 @@
+*****************Welcome to our shop*******************
+You just selected Perfume as a product in you cart. 
+*****************The Billing amount is****************
+The total amount is: 600
+Alert!! It expires on 2 yrs after
+Thanks For purchasing from our Store , Visit Again !!!!
