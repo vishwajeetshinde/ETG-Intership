@@ -1,0 +1,2 @@
+# ETG-Intership
+Inventry management 
